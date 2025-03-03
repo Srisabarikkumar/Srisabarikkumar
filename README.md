@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me Srisabarikkumar
 
-Welcome to my GitHub profile! I’m passionate about software development and 
-love to create innovative solutions to real-world problems.
+#### Welcome to my GitHub profile! I’m passionate about software development and love to create innovative solutions to real-world problems.
 
 ## ✨ About Me:
 

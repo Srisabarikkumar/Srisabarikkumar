@@ -1,10 +1,10 @@
 ## Hi there 👋 It's me Srisabarikkumar
 
-#### Welcome to my GitHub profile! I’m passionate about software development and love to create innovative solutions to real-world problems.
+##### Welcome to my GitHub profile! I’m passionate about software development and love to create innovative solutions to real-world problems.
 
 ## ✨ About Me:
 
-I'm a dedicated MERN stack developer with a strong passion for building dynamic and responsive web applications. With expertise in React, Node.js, Express.js and MongoDB, I enjoy creating seamless user experiences and efficient back-end solutions.
+##### I'm a dedicated MERN stack developer with a strong passion for building dynamic and responsive web applications. With expertise in React, Node.js, Express.js and MongoDB, I enjoy creating seamless user experiences and efficient back-end solutions.
 
 ## 🌐 Socials:
 

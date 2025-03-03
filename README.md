@@ -1,9 +1,9 @@
-# Hi there 👋 It's me Srisabarikkumar
+## Hi there 👋 It's me Srisabarikkumar
 
 Welcome to my GitHub profile! I’m passionate about software development and 
 love to create innovative solutions to real-world problems.
 
-# ✨ About Me:
+##✨ About Me:
 
 I'm a dedicated MERN stack developer with a strong passion for building dynamic and responsive web applications. With expertise in MongoDB, Express.js, React and Node.js, I enjoy creating seamless user experiences and efficient back-end solutions.
 
@@ -12,7 +12,7 @@ I'm a dedicated MERN stack developer with a strong passion for building dynamic 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srisabarikkumar-m-708b431a9/)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/ZzgMkCkx)
 
-# 🚀 Tech Stack:
+## 🚀 Tech Stack:
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50"
 src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="50" height="50" 
 src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="50" height="50"
@@ -28,7 +28,7 @@ alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-c
 <img width="50" height="50" src="https://img.icons8.com/color/50/firebase.png" alt="firebase"/> <img width="50" height="50" src="https://img.icons8.com/color/50/java-web-token.png" alt="java-web-token"/>
 <img height="50" src="https://miro.medium.com/v2/resize:fit:1400/1*Tq7tp7oZyxiAnoMPsI0Dwg.png" />
 
-# 🧑‍💻 IDE and 🛠️ Tools I Use:
+## 🧑‍💻 IDE and 🛠️ Tools I Use:
 <img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50"
 src="https://img.icons8.com/color/50/git.png" alt="git"/> <img width="50" height="50" src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F141%2F786e7a76-3019-4b70-9d33-663ffdbb1d8e.png" alt="netlify" /> <img width="50" height="50" src="https://ph.rappler.com/elections/2025/favicon.ico"
 alt="vercel" /> <img width="50" height="50" src="https://camo.githubusercontent.com/25d25cd0312f9e81b653fbdd33d2b04c49f03dede7fe5c89d4aeabb9a83ec739/68747470733a2f2f63646e2e73616e6974792e696f2f696d616765732f3334656e74386c792f70726f64756374696f6e2f656333376133363630373034653166613262343234366339613031616233346531343531393461642d383234783832342e706e67" alt="render" />  <img width="50" height="50" src="https://img.icons8.com/color/50/npm.png" alt="npm"/> 
@@ -44,10 +44,10 @@ alt="vercel" /> <img width="50" height="50" src="https://camo.githubusercontent.
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Srisabarikkumar&theme=radical)
 
-## 💡 Random Developer Quote
+### 💡 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Srisabarikkumar&limit=5&theme=radical&combine_all_yearly_contributions=true)

@@ -51,4 +51,4 @@ alt="vercel" /> <img width="50" height="50" src="https://camo.githubusercontent.
 
 ![](https://github-contributor-stats.vercel.app/api?username=Srisabarikkumar&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[![Srisabarikkumar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srisabarikkumar&bg_color=121212&color=ffffff&line=59f78e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Srisabarikkumar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srisabarikkumar&bg_color=000000&color=ffffff&line=3bce6c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

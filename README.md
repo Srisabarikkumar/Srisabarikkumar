@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m passionate about software development and 
 love to create innovative solutions to real-world problems.
 
-##✨ About Me:
+## ✨ About Me:
 
 I'm a dedicated MERN stack developer with a strong passion for building dynamic and responsive web applications. With expertise in MongoDB, Express.js, React and Node.js, I enjoy creating seamless user experiences and efficient back-end solutions.
 

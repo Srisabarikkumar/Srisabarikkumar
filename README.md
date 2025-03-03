@@ -5,7 +5,7 @@ love to create innovative solutions to real-world problems.
 
 ## ✨ About Me:
 
-I'm a dedicated MERN stack developer with a strong passion for building dynamic and responsive web applications. With expertise in MongoDB, Express.js, React and Node.js, I enjoy creating seamless user experiences and efficient back-end solutions.
+I'm a dedicated MERN stack developer with a strong passion for building dynamic and responsive web applications. With expertise in React, Node.js, Express.js and MongoDB, I enjoy creating seamless user experiences and efficient back-end solutions.
 
 ## 🌐 Socials:
 

@@ -19,9 +19,8 @@ src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/> <img wid
 src="https://img.icons8.com/color/50/tailwind_css.png" alt="tailwind_css"/> <img width="50" height="50"
 src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
 alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="50" height="50"
-src="https://img.icons8.com/color/50/redux.png" alt="redux"/> <img width="50" height="50" src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" /> 
-<img width="50" height="50" src="https://img.icons8.com/color/50/nodejs.png" alt="nodejs"/> <img width="50" height="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/> 
-<img width="50" height="50" src="https://img.icons8.com/color/50/mysql-logo.png" alt="mysql-logo"/> <img width="50" height="50"
+src="https://img.icons8.com/color/50/redux.png" alt="redux"/> <img width="50" height="50" src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" /> <img height="40"
+src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.png" /> <img width="50" height="50" src="https://img.icons8.com/color/50/nodejs.png" alt="nodejs"/> <img width="50" height="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/> <img width="50" height="50" src="https://img.icons8.com/color/50/mysql-logo.png" alt="mysql-logo"/> <img width="50" height="50"
 src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"
 alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/> 
 <img width="50" height="50" src="https://img.icons8.com/color/50/firebase.png" alt="firebase"/> <img width="50" height="50" src="https://img.icons8.com/color/50/java-web-token.png" alt="java-web-token"/>

@@ -9,7 +9,7 @@ I'm a dedicated MERN stack developer with a strong passion for building dynamic 
 ## 🌐 Socials:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srisabarikkumar-m-708b431a9/)
-[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/ZzgMkCkx)
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/GTq7TTuwfF)
 
 ## 🚀 Tech Stack:
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50"
